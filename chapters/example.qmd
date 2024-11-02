@@ -30,7 +30,7 @@ This is an example of a callout with a title.
 ::: {.callout-tip}
 ## Tip with Title
 
-This is not an example of a callout with a title.
+This is Shuai's example of a callout with a title.
 :::
 
 ::: {.callout-caution collapse="true"}
